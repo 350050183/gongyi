@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 公益项目投票
 
 You can use the [editor on GitHub](https://github.com/350050183/gongyi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
